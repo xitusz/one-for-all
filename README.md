@@ -33,7 +33,7 @@
 ## Tecnologias Utilizadas
 
 * SQL
-* MysQL
+* MySQL
 
 ---
 
@@ -69,7 +69,7 @@
 
 * Execute a query do arquivo 'desafio1.sql', 'SpotifyClone' é o banco de dados utilizado
 
-* Execute as querys, cada arquivo 'desafio?.sql' é uma query diferente.
+* Execute as querys, cada arquivo 'desafioN.sql' é uma query diferente.
 
 ---
 
